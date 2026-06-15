@@ -53,9 +53,8 @@ while true; do
             echo "╔════════════════════════════════════════╗"
             echo "║   ✓ ACCESS GRANTED                     ║"
             echo "╠════════════════════════════════════════╣"
-            echo "║   Welcome! You have successfully       ║"
-            echo "║   entered the correct passcode.        ║"
-            echo "║   Access to restricted area granted.   ║"
+            echo "║  You solved the puzzle! Yay!           ║"
+            echo "║  And I just wasted some of your time!  ║"
             echo "╚════════════════════════════════════════╝"
             break
         else
