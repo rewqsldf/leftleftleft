@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set your master passcode here
-CORRECT_PASSCODE="secret123"
+CORRECT_PASSCODE="pgtiam"
 
 # Array of wrong synonyms (will be shuffled)
 WRONG_SYNONYMS=(
