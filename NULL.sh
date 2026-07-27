@@ -57,29 +57,8 @@ while true; do
                 echo "║   ✓ ACCESS GRANTED                     ║"
                 echo "╠════════════════════════════════════════╣"
                 echo "║  You solved the puzzle! Yay!           ║"
-                echo "║  And I just wasted some of your time!  ║"
+                echo "║  Or did you?                           ║"
                 echo "╚════════════════════════════════════════╝"
-                echo ""
-                echo "════════════════════════════════════════"
-                echo "              THE LETTER"
-                echo "════════════════════════════════════════"
-                echo ""
-                echo "Dear Puzzle Solver,"
-                echo ""
-                echo "Congratulations on making it to the year 2030!"
-                echo "By the time you read this, the world has surely changed"
-                echo "in ways we could only imagine. I hope you're doing well."
-                echo ""
-                echo "This message was locked away, waiting for this exact moment."
-                echo "Perhaps you opened this script out of curiosity, or perhaps"
-                echo "someone from the past left it for you to find."
-                echo ""
-                echo "Either way, you've earned this moment. Well done."
-                echo ""
-                echo "With regards from the past,"
-                echo "A curious developer"
-                echo ""
-                echo "════════════════════════════════════════"
                 break
             else
                 echo "Access denied. The system time must be set to 2030 or later."
@@ -90,3 +69,4 @@ while true; do
         fi
     fi
 done
+#
